@@ -1,0 +1,275 @@
+{
+  "status": "HOST C VERIFIED; NOT BOARD APPROVED",
+  "golden_vectors": [
+    {
+      "name": "kettle",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "knock",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "silence",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_alarm_alert_right_field_20261101_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_background_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_background_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_alarm_alert_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_alarm_clock_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_baby_cry_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_baby_cry_right_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_glass_break_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_kettle_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_knock_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_knock_right_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_knock_strong_repeat_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_silence_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_external_unknown_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_knock_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_knock_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_knock_03",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_knock_front_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_playback_knock_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_playback_knock_right_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_playback_knock_right_03",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pcm_playback_knock_right_near_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_alarm_alert_right_field_20261101_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_background_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_background_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_alarm_alert_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_alarm_clock_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_baby_cry_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_baby_cry_right_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_glass_break_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_kettle_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_knock_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_knock_right_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_knock_strong_repeat_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_silence_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_external_unknown_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_knock_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_knock_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_knock_03",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_knock_front_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_playback_knock_right_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_playback_knock_right_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_playback_knock_right_03",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "stage36_pl_playback_knock_right_near_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    }
+  ],
+  "development_cards": 760,
+  "confusion_matches_python": true,
+  "input_quantization_mismatches": 0,
+  "log2_conversion_mismatches": 0,
+  "field_samples_used_in_training": [
+    "alarm_alert_right_field_20261101_01",
+    "background_01",
+    "background_02",
+    "external_alarm_alert_right_01",
+    "external_alarm_clock_right_01",
+    "external_baby_cry_right_01",
+    "external_baby_cry_right_02",
+    "external_glass_break_right_01",
+    "external_kettle_right_01",
+    "external_knock_right_01",
+    "external_knock_right_02",
+    "external_knock_strong_repeat_01",
+    "external_silence_right_01",
+    "external_unknown_right_01",
+    "knock_01",
+    "knock_02",
+    "knock_03",
+    "knock_front_01",
+    "playback_knock_right_01",
+    "playback_knock_right_02",
+    "playback_knock_right_03",
+    "playback_knock_right_near_01"
+  ],
+  "saved_field_examples_correct": 43,
+  "limitations": [
+    "No ARM speed measurement",
+    "PL zero-floor policy unresolved",
+    "Listed field samples used in training; their correct outputs are fitting checks, not independent field validation",
+    "Real board saved-sample regression failures remain"
+  ]
+}

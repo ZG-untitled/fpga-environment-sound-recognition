@@ -1,0 +1,9 @@
+﻿true_class,silence,unknown,knock,alarm_clock,alarm_alert,baby_cry,glass_break,kettle
+silence,21,4,0,0,2,1,0,0
+unknown,0,260,2,3,14,28,0,3
+knock,0,10,158,1,0,0,0,0
+alarm_clock,3,3,0,49,0,0,0,0
+alarm_alert,0,1,0,1,49,0,0,7
+baby_cry,0,10,0,0,1,49,0,0
+glass_break,0,0,0,0,0,0,0,0
+kettle,0,17,0,0,0,0,0,63

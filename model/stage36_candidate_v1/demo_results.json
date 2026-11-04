@@ -1,0 +1,260 @@
+[
+  {
+    "file": "5_baby_cry_1.wav",
+    "true_class_id": 5,
+    "true_class": "baby_cry",
+    "sha256": "fbe39661ed51acf74639b6b8e6cbdf708f68da81d528e5d89c9e918ea89b595f",
+    "screened_demo_not_independent_test": true,
+    "window_seconds": 1.0,
+    "windows": [
+      {
+        "window": 0,
+        "live_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9993867874145508
+        },
+        "stage36_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9996830224990845
+        },
+        "live_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 255
+        },
+        "stage36_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 255
+        }
+      },
+      {
+        "window": 1,
+        "live_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9207805395126343
+        },
+        "stage36_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.905437707901001
+        },
+        "live_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 235
+        },
+        "stage36_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 230
+        }
+      },
+      {
+        "window": 2,
+        "live_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9336078763008118
+        },
+        "stage36_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9030184745788574
+        },
+        "live_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 244
+        },
+        "stage36_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 233
+        }
+      },
+      {
+        "window": 3,
+        "live_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9991956353187561
+        },
+        "stage36_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9985645413398743
+        },
+        "live_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 255
+        },
+        "stage36_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 254
+        }
+      },
+      {
+        "window": 4,
+        "live_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.7637741565704346
+        },
+        "stage36_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9094836711883545
+        },
+        "live_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 213
+        },
+        "stage36_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 232
+        }
+      }
+    ],
+    "live_v1_fp32_correct_windows": 5,
+    "live_v1_int8_correct_windows": 5,
+    "stage36_v1_fp32_correct_windows": 5,
+    "stage36_v1_int8_correct_windows": 5
+  },
+  {
+    "file": "5_baby_cry_2.wav",
+    "true_class_id": 5,
+    "true_class": "baby_cry",
+    "sha256": "4d75d585fa0b6dd3a53505f8ad7b27ab593d8157cc99b532c6696757a96376fc",
+    "screened_demo_not_independent_test": true,
+    "window_seconds": 1.0,
+    "windows": [
+      {
+        "window": 0,
+        "live_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9935370087623596
+        },
+        "stage36_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9957255125045776
+        },
+        "live_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 253
+        },
+        "stage36_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 254
+        }
+      },
+      {
+        "window": 1,
+        "live_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.965187668800354
+        },
+        "stage36_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9323460459709167
+        },
+        "live_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 245
+        },
+        "stage36_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 237
+        }
+      },
+      {
+        "window": 2,
+        "live_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9467378854751587
+        },
+        "stage36_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9021314382553101
+        },
+        "live_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 244
+        },
+        "stage36_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 218
+        }
+      },
+      {
+        "window": 3,
+        "live_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.999129593372345
+        },
+        "stage36_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.999242901802063
+        },
+        "live_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 255
+        },
+        "stage36_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 255
+        }
+      },
+      {
+        "window": 4,
+        "live_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9828199148178101
+        },
+        "stage36_v1_fp32": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence": 0.9843876361846924
+        },
+        "live_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 251
+        },
+        "stage36_v1_int8": {
+          "class_id": 5,
+          "class_name": "baby_cry",
+          "confidence_q8": 251
+        }
+      }
+    ],
+    "live_v1_fp32_correct_windows": 5,
+    "live_v1_int8_correct_windows": 5,
+    "stage36_v1_fp32_correct_windows": 5,
+    "stage36_v1_int8_correct_windows": 5
+  }
+]

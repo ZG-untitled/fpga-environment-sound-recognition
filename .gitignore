@@ -1,0 +1,35 @@
+# Vivado/Vitis generated caches
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+*.jou
+*.log
+!board/boot/stage37_qspi_program_verify.log
+!board/boot/stage37_qspi_cold_boot_verify.log
+!data/stability/noise_soak_after_emergency_fix_60s.log
+*.str
+*.wdb
+*.hw/
+
+# Local IDE files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Personal/private submission data
+private/
+*签字*
+*身份证*
+*报名表*

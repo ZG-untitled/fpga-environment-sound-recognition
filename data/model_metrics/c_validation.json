@@ -1,0 +1,49 @@
+{
+  "status": "HOST C VERIFIED; NOT BOARD APPROVED",
+  "golden_vectors": [
+    {
+      "name": "kettle",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "knock",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "live_controlled_knock",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "live_room_background",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "pcm_knock_front_50cm_02",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "pcm_room_background_01",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    },
+    {
+      "name": "silence",
+      "layers_verified": 13,
+      "mismatch_count": 0
+    }
+  ],
+  "development_cards": 760,
+  "confusion_matches_python": true,
+  "input_quantization_mismatches": 0,
+  "log2_conversion_mismatches": 0,
+  "limitations": [
+    "No ARM speed measurement",
+    "Real board regression failures remain",
+    "PL zero-floor policy unresolved"
+  ]
+}

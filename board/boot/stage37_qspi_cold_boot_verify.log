@@ -1,0 +1,16 @@
+
+****** Software Commandline Tool (XSCT) v2025.2.0
+  **** SW Build 6298600 on Thu Nov 13 01:12:30 MST 2025
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+
+
+Warning: XSCT is deprecated and will be removed in future releases.
+We recommend using the new Python command-line tool for project management and debugging:
+- Run "vitis -i" for interactive mode.
+- Run "vitis -s <script>" for script mode.
+QSPI_COLD_BOOT_STATUS0=0x52454144
+QSPI_COLD_BOOT_STATUS1=0x52454144
+QSPI_COLD_BOOT_COUNT0=35
+QSPI_COLD_BOOT_COUNT1=37
+QSPI_COLD_BOOT_RUNTIME=Verified

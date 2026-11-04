@@ -1,0 +1,14 @@
+metric,value,unit,source
+sample_rate,16000,Hz,design specification
+pcm_channels,4,channels,design specification
+feature_rows,49,frames,design specification
+feature_columns,40,bands,design specification
+int8_development_accuracy,83.8158,percent,model metrics
+fixed_host_regression,8/8,samples,host_regression.csv
+routed_wns,11.184,ns,stage29 routed timing report
+routed_tns,0.000,ns,stage29 routed timing report
+slice_luts,12800,count,stage29 routed utilization report
+slice_registers,7619,count,stage29 routed utilization report
+block_ram_tiles,16.5,tiles,stage29 routed utilization report
+dsps,33,count,stage29 routed utilization report
+

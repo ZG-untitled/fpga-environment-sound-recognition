@@ -1,0 +1,11 @@
+test_id,input,expected_class,expected_direction,expected_led,expected_motor,actual_class,actual_direction,actual_led,actual_motor,ack_cleared,pass,notes
+1,room_noise,silence_or_unknown,blank,idle,off,,,,,,,,
+2,keyboard,unknown,blank,idle,off,,,,,,,,
+3,door_latch,unknown,blank,idle,off,,,,,,,,
+4,door_open_close,unknown,blank,idle,off,,,,,,,,
+5,knock_front,knock,front,blue,on,,,,,,,,
+6,alarm_clock_left,alarm_clock,left,yellow,on,,,,,,,,
+7,alarm_alert_right,alarm_alert,right,red,on,,,,,,,,
+8,baby_cry_front,baby_cry,front,yellow,on,,,,,,,,
+9,kettle_back,kettle,back,blue,on,,,,,,,,
+10,glass_break,unknown,blank_or_transient_direction,idle,off,,,,,,,,

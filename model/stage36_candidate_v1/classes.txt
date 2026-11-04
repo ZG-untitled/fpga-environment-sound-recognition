@@ -1,0 +1,8 @@
+0 silence
+1 unknown
+2 knock
+3 alarm_clock
+4 alarm_alert
+5 baby_cry
+6 glass_break
+7 kettle

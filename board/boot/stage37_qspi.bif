@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+    [bootloader] fsbl_qspi.elf
+    stage29_retry_tjc.bit
+    stage37_model_candidate.elf
+}
